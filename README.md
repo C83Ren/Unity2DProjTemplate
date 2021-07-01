@@ -2,7 +2,7 @@
 A template project based from Unity Hub 2D template Project that has been optimized for Git repository use.
 
 ### Minimum Requirement
-> **Minimum Unity version:** `2019.4.19f1`
+> **Minimum Unity version:** `2019.4.19f1`  
 > **Git LFS:**`yes` (you could refer [here](https://git-lfs.github.com/) on how to install Git LFS)
 
 ### Regarding Git LFS
